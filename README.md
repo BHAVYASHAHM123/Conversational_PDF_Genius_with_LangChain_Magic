@@ -1,6 +1,8 @@
 # Conversational_PDF_Genius_with_LangChain_Magic
 
-Demo: https://www.linkedin.com/posts/bhavya-shah-76ab701a3_powerbi-ecommerce-salesanalytics-activity-7077710494949646336-LNSr?utm_source=share&utm_medium=member_desktop
+
+### Demo 
+https://www.linkedin.com/posts/bhavya-shah-76ab701a3_powerbi-ecommerce-salesanalytics-activity-7077710494949646336-LNSr?utm_source=share&utm_medium=member_desktop
 
 📊 Exciting News! Just launched a dynamic Power BI Interactive E-commerce Sales Dashboard with the objective of providing comprehensive details of online e-commerce sales. 💻💰
 
@@ -19,4 +21,5 @@ Demo: https://www.linkedin.com/posts/bhavya-shah-76ab701a3_powerbi-ecommerce-sal
 
 
 
-Author: Bhavya Shah
+## Author
+### Bhavya Shah
